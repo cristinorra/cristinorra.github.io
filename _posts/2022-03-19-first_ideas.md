@@ -18,3 +18,4 @@ Se trata de dos ejemplos de un problema más general, debido al inmenso número 
 3. EXPANSION GRADUAL
 - Previamente se necesitan buenos sistemas de reporte
 - Reflexionar sobre qué podría ir mal
+
