@@ -1,4 +1,5 @@
 # Primeras ideas interesantes
+
 En un sistema basado en un red neuronal el comportamiento del sistema emerge del intento del modelo de ajustarse a los datos de entrenamiento.
 
 Nos encontramos con el problema de los *datos fuera del dominio* de entrenamiento cuando nuestro modelo se enfrenta en producción a datos muy diferentes de los de entrenamiento. No hay una solución perfecta para abordar este problema.
