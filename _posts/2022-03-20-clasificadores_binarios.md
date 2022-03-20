@@ -15,7 +15,8 @@ $T-\equiv test \phantom{i} negativo$
 ¿Cómo de bueno es nuestro test de diagnóstico?
 Disponemos de algunos indicadores intrínsecos del test de diagnóstico, que son valores teóricos. 
 Como estos indicadores no varían entre poblaciones, en sí mismos no tienen mucha utilidad práctica.
-Más adelante veremos cómo encontrársela.
+Más adelante veremos cómo encontrársela. La idea clave es ver cómo afecta a la bondad del test de
+diagnóstico la variación de la prevalencia de la enfermedad en la población.
 
 Estudiemos la *matriz de confusión* para este test de diagnóstico
 
