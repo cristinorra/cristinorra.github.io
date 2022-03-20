@@ -25,11 +25,11 @@ Estudiemos la *matriz de confusión* para este test de diagnóstico
 |**Test Positivo**|$VP\equiv verdadero \phantom{i} positivo$|$FP\equiv falso \phantom{i} positivo$|
 |**Test Negativo**|$FN\equiv falso \phantom{i} negativo$|$VN\equiv verdadero \phantom{i} negativo$|
 
-Se llama **sensibilidad(SE)** a la probabilidad de que el test de diagnóstico sea positivo en el grupo de personas enfermas
+Se llama **sensibilidad del test(SE)** a la probabilidad de que el test de diagnóstico sea positivo en el grupo de personas enfermas
 
 $$SE=P(T+/E)$$
 
-Se llama **especificidad(SP)** a la probabilidad de que el test de diagnóstico sea negativo en el grupo de personas sanas
+Se llama **especificidad del test(SP)** a la probabilidad de que el test de diagnóstico sea negativo en el grupo de personas sanas
 
 $$SP=P(T-/\overline{E})$$
 
