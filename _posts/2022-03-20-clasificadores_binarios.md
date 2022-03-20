@@ -74,9 +74,9 @@ sin embargo, en general, si los sucesos son dependientes
 
 Entonces, aplicando estos razonamientos a los sucesos E y T+
 
-<img src="https://latex.codecogs.com/svg.image?P(E\cap{T+})={P(T+)}\cdot{P(E/T+)}={[P(E\cap{T+})+P({\bar{E}}\cap{T+})]}\cdot{P(E/T+)}" />
+<img src="https://latex.codecogs.com/svg.image?P(E\cap{T+})={P({T+})}\cdot{P(E/{T+})}={[P(E\cap{T+})+P({\bar{E}}\cap{T+})]}\cdot{P(E/{T+})}" />
 
 y así obtenemos que
 
-<img src="https://latex.codecogs.com/svg.image?P(E/T+)=\frac{P(E\cap{T+})}{P(E\cap{T+})+P({\bar{E}}\cap{T+})}=\frac{P(E)\cdot{P({T+/E})}}{{P(E)\cdot{P({T+/E})}}+{P({E})\cdot{P({{T+}/{E}})}}}" />
+<img src="https://latex.codecogs.com/svg.image?P(E/{T+})=\frac{P(E\cap{T+})}{P(E\cap{T+})+P({\bar{E}}\cap{T+})}=\frac{P(E)\cdot{P({{T+}/E})}}{{P(E)\cdot{P({{T+}/E})}}+{P({E})\cdot{P({{T+}/{E}})}}}" />
 
