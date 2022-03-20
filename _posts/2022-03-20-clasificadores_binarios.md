@@ -22,8 +22,8 @@ Estudiemos la *matriz de confusión* para este test de diagnóstico
 
 ||Personas Enfermas|Personas Sanas|
 |-|-|-|
-|**Test Positivo**|$VP\equiv verdadero \phantom{i} positivo \newline \begin{center} \{E\cap{T+}\}$|$FP\equiv falso \phantom{i} positivo \newline \begin{center} \{\overline{E}\cap{T+}\}$|
-|**Test Negativo**|$FN\equiv falso \phantom{i} negativo \newline \begin{center} \{E\cap{T-}\}$|$VN\equiv verdadero \phantom{i} negativo \newline \begin{center} \{\overline{E}\cap{T-}\}$|
+|**Test Positivo**|$VP\equiv verdadero \phantom{i} positivo \newline \begin{center} \{E\cap{T+}\} \end{center}$|$FP\equiv falso \phantom{i} positivo \newline \begin{center} \{\overline{E}\cap{T+}\} \end{center}$|
+|**Test Negativo**|$FN\equiv falso \phantom{i} negativo \newline \begin{center} \{E\cap{T-}\} \end{center}$|$VN\equiv verdadero \phantom{i} negativo \newline \begin{center} \{\overline{E}\cap{T-}\} \end{center}$|
 
 Se llama **sensibilidad del test(SE)** a la probabilidad de que el test de diagnóstico sea positivo en el grupo de personas enfermas
 
