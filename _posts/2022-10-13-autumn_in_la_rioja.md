@@ -1,5 +1,5 @@
 # Autumn in La Rioja
-Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo en plena Demanada Riojana.
+Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo y los Pancrudos en plena Demanada Riojana.
 
 La ruta está prevista para el sábado 22 de octubre de 2022. Sólo en el caso de que se prevea muy mal tiempo para el sábado y la previsión para el domingo sea mejor se pospondrá la ruta al domingo 23.
 
