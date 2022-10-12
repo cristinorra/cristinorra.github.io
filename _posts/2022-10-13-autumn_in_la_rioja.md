@@ -1,3 +1,7 @@
+---
+layout: post
+title: Autumn in La Rioja
+---
 # Autumn in La Rioja
 Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo y los Pancrudos en plena Demanada Riojana.
 
