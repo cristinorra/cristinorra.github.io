@@ -23,6 +23,8 @@ Imprescindible llevar la comida del día en la mochila y si se va a hacer la rut
 
 ** Para descargar cualquiera de los 4 tracks pincha en el enlace y luego "Guardar como..." en la página que aparezca.
 
+*** Para visualizar los tracks utiliza tu visor de GPX preferido.
+
 ## Árboles sigunlares en la cabecera del río Cárdenas
 1. [Haya de los Carrias](https://www.larioja.org/larioja-client/cm/medio-ambiente/images?idMmedia=628506)
 2. [Mostajo del río Cárdenas](https://www.larioja.org/larioja-client/cm/medio-ambiente/images?idMmedia=628546)
