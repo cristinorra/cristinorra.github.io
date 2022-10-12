@@ -7,6 +7,7 @@ Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los
 3. [Ruta media. Árboles sigunlares del río Cárdenas](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/03%20Arboles%20singulares%20de%20La%20Rioja.gpx)
 4. [Ruta larga. Otoño en los hayedos riojanos](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/04%20Oto%C3%B1o%20Riojano.gpx)
 * Estos tracks dejarán de estar disponibles una vez finalizada la actividad
+
 ** Para descargar cualquiera de los 4 tracks pincha en el enlace y luego "Guardar como..." en la página que aparezca.
 
 ## Árboles sigunlares en la cabecera del río Cárdenas
