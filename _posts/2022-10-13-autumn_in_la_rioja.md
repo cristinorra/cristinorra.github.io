@@ -3,7 +3,7 @@ Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los
 
 La ruta está prevista para el sábado 22 de octubre de 2022. Sólo en el caso de que se prevea muy mal tiempo para el sábado y la previsión para el domingo sea mejor se pospondrá la ruta al domingo 23.
 
-Imprescindible llevar la comida del día en la mochila y si se va a hacer la ruta larga agua para el camino. Recomendado llevar chubasquero y ropa de recambio
+Imprescindible llevar la comida del día en la mochila y si se va a hacer la ruta larga agua para el camino. Recomendado llevar chubasquero y ropa de recambio.
 
 ## Horario
 - 08:30 Quedada en San Amaro y organización de vehículos
@@ -25,6 +25,6 @@ Imprescindible llevar la comida del día en la mochila y si se va a hacer la rut
 
 *** Para visualizar los tracks utiliza tu visor de GPX preferido.
 
-## Árboles sigunlares en la cabecera del río Cárdenas
+## Árboles singulares en la cabecera del río Cárdenas
 1. [Haya de los Carrias](https://www.larioja.org/larioja-client/cm/medio-ambiente/images?idMmedia=628506)
 2. [Mostajo del río Cárdenas](https://www.larioja.org/larioja-client/cm/medio-ambiente/images?idMmedia=628546)
