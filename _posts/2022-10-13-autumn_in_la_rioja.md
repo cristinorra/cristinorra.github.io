@@ -20,10 +20,15 @@ Imprescindible llevar la comida del día en la mochila y, si se va a hacer la ru
 ## Recorridos
 Los recorridos parten de los Corrales de Urre
 ![Corrales de Urre](/images/01Urre.jpg)
-<img src="/images/01Urre.jpg" alt="Corrales de Urre" style=width:100px;"/>
 
 Si no se quiere andar demasiado una opción es visitar la cueva del santo
 ![Cueva del santo](/images/01Cueva.jpg)
+
+Una opción algo más larga es visitar dos de los árboles singuales de La Rioja. Siguiendo por la carretera se llega al Haya de los Carrias. Al finalizar el asfalto se llega al refugio de la fotografía, y siguiendo por la pista se alcanza el Mostajo del Cárdenas justo antes de la primera curva en herradura.
+![Árboles singulares](/images/01Cueva.jpg)
+
+Sin embargo, la opción recomendada es visitar en todo su explendor el otoño riojano.
+![Otoño](/images/01Autumn.jpg)
 
 ## Tracks que documentan los recorridos propuestos (*)
 1. [Para llegar desde San Amaro hasta los corrales de Urre](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/01%20San%20Amaro-Corrales%20de%20Urre.gpx) (1h 30m)
