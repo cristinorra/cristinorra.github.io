@@ -17,6 +17,14 @@ Imprescindible llevar la comida del día en la mochila y, si se va a hacer la ru
 - 17:30 Final de la ruta y regreso a Burgos
 - 19:00 Llegada a Burgos
 
+## Recorridos
+Los recorridos parten de los Corrales de Urre
+![Corrales de Urre](/images/01Urre.jpg)
+<img src="/images/01Urre.jpg" alt="Corrales de Urre" style=width:100px;"/>
+
+Si no se quiere andar demasiado una opción es visitar la cueva del santo
+![Cueva del santo](/images/01Cueva.jpg)
+
 ## Tracks que documentan los recorridos propuestos (*)
 1. [Para llegar desde San Amaro hasta los corrales de Urre](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/01%20San%20Amaro-Corrales%20de%20Urre.gpx) (1h 30m)
 2. [Ruta corta. Cueva de San Millán](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/02%20Corrales%20de%20Urre-Cueva%20de%20San%20Millan.gpx) (30m)
