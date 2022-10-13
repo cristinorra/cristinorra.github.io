@@ -21,20 +21,20 @@ Imprescindible llevar la comida del día en la mochila y, si se va a hacer la ru
 Los recorridos parten de los Corrales de Urre
 ![Corrales de Urre](/images/01Urre.jpg)
 
-Si no se quiere andar demasiado una opción es visitar la cueva del santo
+Si no se quiere andar demasiado una opción es visitar la cueva del santo (Ida y vuelta).
 ![Cueva del santo](/images/01Cueva.jpg)
 
-Otra opción algo más larga es visitar dos de los árboles singuales de La Rioja. Siguiendo por la carretera se llega al Haya de los Carrias. Al finalizar el asfalto se llega al refugio de la fotografía, y siguiendo por la pista se alcanza el Mostajo del Cárdenas justo antes de la primera curva en herradura.
+Otra opción algo más larga es visitar dos de los árboles singuales de La Rioja. Siguiendo por la carretera se llega al Haya de los Carrias. Al finalizar el asfalto se llega al refugio de la fotografía, y siguiendo por la pista se alcanza el Mostajo del Cárdenas justo antes de la primera curva en herradura (Ida y vuelta).
 ![Árboles singulares](/images/01Refugio.jpg)
 
-Sin embargo, la opción recomendada es visitar en todo su explendor el otoño riojano.
+Sin embargo, la opción recomendada es visitar en todo su explendor el otoño riojano (Recorrido circular). La última parte de este recorrido coincide precisamente con la vuelta de la ruta de los árboles singulares. Esta ruta larga también se puede hacer en bicicleta de montaña.
 ![Otoño](/images/01Autumn.jpg)
 
 ## Tracks que documentan los recorridos propuestos (*)
 1. [Para llegar desde San Amaro hasta los corrales de Urre](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/01%20San%20Amaro-Corrales%20de%20Urre.gpx) (1h 30m)
-2. [Ruta corta. Cueva de San Millán](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/02%20Corrales%20de%20Urre-Cueva%20de%20San%20Millan.gpx) (30m)
-3. [Ruta media. Árboles singulares del río Cárdenas](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/03%20Arboles%20singulares%20de%20La%20Rioja.gpx) (1h)
-4. [Ruta larga. Otoño en los hayedos riojanos](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/04%20Oto%C3%B1o%20Riojano.gpx) (6h)
+2. [Ruta corta. Cueva de San Millán](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/02%20Corrales%20de%20Urre-Cueva%20de%20San%20Millan.gpx) (30m sólo ida)
+3. [Ruta media. Árboles singulares del río Cárdenas](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/03%20Arboles%20singulares%20de%20La%20Rioja.gpx) (1h sólo ida)
+4. [Ruta larga. Otoño en los hayedos riojanos](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/04%20Oto%C3%B1o%20Riojano.gpx) (6h ruta completa)
 
 \* Estos tracks dejarán de estar disponibles una vez finalizada la actividad.
 
