@@ -38,7 +38,7 @@ Sin embargo, la opción recomendada es visitar en todo su explendor el otoño ri
 
 \* Estos tracks dejarán de estar disponibles una vez finalizada la actividad.
 
-** Para descargar cualquiera de los 4 tracks pincha en el enlace y luego "Guardar como..." en la página que aparezca. Guardarlas con la extensión \*.gpx.
+** Para descargar cualquiera de los 4 tracks pincha en el enlace y luego "Guardar como..." en la página que aparezca. Guardarlos con la extensión \*.gpx.
 
 *** Para visualizar los tracks utiliza tu visor de GPX preferido.
 
