@@ -24,7 +24,7 @@ Los recorridos parten de los Corrales de Urre
 Si no se quiere andar demasiado una opción es visitar la cueva del santo
 ![Cueva del santo](/images/01Cueva.jpg)
 
-Una opción algo más larga es visitar dos de los árboles singuales de La Rioja. Siguiendo por la carretera se llega al Haya de los Carrias. Al finalizar el asfalto se llega al refugio de la fotografía, y siguiendo por la pista se alcanza el Mostajo del Cárdenas justo antes de la primera curva en herradura.
+Otra opción algo más larga es visitar dos de los árboles singuales de La Rioja. Siguiendo por la carretera se llega al Haya de los Carrias. Al finalizar el asfalto se llega al refugio de la fotografía, y siguiendo por la pista se alcanza el Mostajo del Cárdenas justo antes de la primera curva en herradura.
 ![Árboles singulares](/images/01Refugio.jpg)
 
 Sin embargo, la opción recomendada es visitar en todo su explendor el otoño riojano.
