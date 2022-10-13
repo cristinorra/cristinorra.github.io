@@ -3,11 +3,11 @@ layout: post
 title: Autumn in La Rioja
 ---
 # Autumn in La Rioja
-Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo y los Pancrudos en plena Demanada Riojana.
+Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo y los Pancrudos, en plena Demanda Riojana.
 
 La ruta está prevista para el sábado 22 de octubre de 2022. Sólo en el caso de que se prevea muy mal tiempo para el sábado y la previsión para el domingo sea mejor se pospondrá la ruta al domingo 23.
 
-Imprescindible llevar la comida del día en la mochila y si se va a hacer la ruta larga agua para el camino. Recomendado llevar chubasquero y ropa de recambio.
+Imprescindible llevar la comida del día en la mochila y, si se va a hacer la ruta larga, agua para el camino. Recomendado llevar chubasquero y ropa de recambio.
 
 ## Horario
 - 08:30 Quedada en San Amaro y organización de vehículos
@@ -23,7 +23,7 @@ Imprescindible llevar la comida del día en la mochila y si se va a hacer la rut
 3. [Ruta media. Árboles singulares del río Cárdenas](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/03%20Arboles%20singulares%20de%20La%20Rioja.gpx) (1h)
 4. [Ruta larga. Otoño en los hayedos riojanos](https://raw.githubusercontent.com/cristinorra/Auxiliar/main/04%20Oto%C3%B1o%20Riojano.gpx) (6h)
 
-\* Estos tracks dejarán de estar disponibles una vez finalizada la actividad
+\* Estos tracks dejarán de estar disponibles una vez finalizada la actividad.
 
 ** Para descargar cualquiera de los 4 tracks pincha en el enlace y luego "Guardar como..." en la página que aparezca.
 
