@@ -3,6 +3,15 @@ layout: post
 title: Autumn in La Rioja
 ---
 # Autumn in La Rioja
+
+<span style="color:red">**¡¡¡ ÚLTIMA HORA !!!**</span>
+
+Consultada hoy mismo día 21 de octubre a las 12:00 horas, ésta es la previsión meteorológica para mañana sábado
+![Previsión Meteorológica](/images/01Prevision.PNG)
+
+A la vista de esta previsión, y aunque en principio disponemos de una ventana de tiempo sin lluvias, <span style="color:red">es importante que seamos puntuales a la hora de la salida</span>. Cualquier retraso aumentaría drásticamente las probabilidades de mojarnos. Como no está descartado que nos vayamos a mojar se hace más relevante el consejo de llevar chubasquero y ropa de repuesto. Es más, lo más prudente sería añadir un paraguas por persona en el equipaje.
+
+## Información General
 Invitación a conocer el otoño riojano en la cabecera del río Cárdenas, a los pies del San Lorenzo y los Pancrudos, en plena Demanda Riojana.
 
 La ruta está prevista para el sábado 22 de octubre de 2022. Sólo en el caso de que se prevea muy mal tiempo para el sábado y la previsión para el domingo sea mejor se pospondrá la ruta al domingo 23.
