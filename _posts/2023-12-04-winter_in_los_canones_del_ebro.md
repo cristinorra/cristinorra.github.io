@@ -20,11 +20,11 @@ Imprescindible llevar la comida del día y algo de agua en la mochila. Recomenda
 - 10:00 Inicio de la ruta
 - 11:30 Huidobro
 - 13:00 Cortiguera
-- 14:15 Mirador del Ebro
-- 14:45 Gallejores (BiblioTejo)
-- 16:15 Pozo Azul
-- 16:45 Final de la ruta y regreso a Burgos
-- 17:30 Llegada a Burgos
+- 14:30 Mirador del Ebro
+- 15:00 Gallejores (BiblioTejo)
+- 16:30 Pozo Azul
+- 17:00 Final de la ruta y regreso a Burgos
+- 18:00 Llegada a Burgos
 
 ## Recorrido
 El recorrido parte de la última curva de herradura antes de llegar a Pesquera.
